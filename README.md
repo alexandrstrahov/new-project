@@ -8,6 +8,8 @@ Run npm install in root folder to install dependencies
 
 Run npx playwright install in root folder to install Playwright additional dependencies
 
+Run npm install axios in root folder to install axios
+
 Run all tests
 npx playwright test
 
